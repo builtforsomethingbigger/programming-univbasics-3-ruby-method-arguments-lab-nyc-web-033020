@@ -1,7 +1,7 @@
-def full_name (first_name, last_name)
-  puts "Hello, #{first_name} #{last_name}!"
+def greeting (name)
+  puts "Hello, #{name}!"
 end
-
+greeting("Steve")
 
 
 
