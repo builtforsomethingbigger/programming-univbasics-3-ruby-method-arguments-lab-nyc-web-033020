@@ -1,7 +1,7 @@
-def greeting (name)
+def introduction (name)
   puts "Hello, #{name}!"
 end
-greeting("Steve")
+introduction("Steve")
 
 
 
